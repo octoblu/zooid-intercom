@@ -1,10 +1,14 @@
 # zooid-octoblu-intercom
 
+[![Build Status](https://travis-ci.org/octoblu/zooid-octoblu-intercom.svg?branch=master)](https://travis-ci.org/octoblu/zooid-octoblu-intercom)
+[![Test Coverage](https://codecov.io/gh/octoblu/zooid-octoblu-intercom/branch/master/graph/badge.svg)](https://codecov.io/gh/octoblu/zooid-octoblu-intercom)
+[![Dependency status](http://img.shields.io/david/octoblu/zooid-octoblu-intercom.svg?style=flat)](https://david-dm.org/octoblu/zooid-octoblu-intercom)
+[![devDependency Status](http://img.shields.io/david/dev/octoblu/zooid-octoblu-intercom.svg?style=flat)](https://david-dm.org/octoblu/zooid-octoblu-intercom#info=devDependencies)
+[![Slack Status](http://community-slack.octoblu.com/badge.svg)](http://community-slack.octoblu.com)
+
+[![NPM](https://nodei.co/npm/zooid-octoblu-intercom.svg?style=flat)](https://npmjs.org/package/zooid-octoblu-intercom)
 A React component for handling Intercom
 
-[![Build Status](https://travis-ci.org/octoblu/zooid-octoblu-intercom.svg?branch=master)](https://travis-ci.org/octoblu/zooid-octoblu-intercom)
-[![npm version](https://badge.fury.io/js/zooid-octoblu-intercom.svg)](http://badge.fury.io/js/zooid-octoblu-intercom)
-[![Gitter](https://badges.gitter.im/octoblu/help.svg)](https://gitter.im/octoblu/help)
 
 ## Installing
 
